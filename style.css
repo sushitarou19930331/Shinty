@@ -36,6 +36,12 @@ h2{
   color: #66BFBF;
 }
 
+h4{
+  font-size: 2rem;
+  font-weight: normal;
+  color: #66BFBF;
+}
+
 hr{border: dotted #deedee 6px;
 border-bottom: none;
 width:4%;

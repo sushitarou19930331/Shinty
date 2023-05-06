@@ -126,3 +126,13 @@ margin-left: right 30px;}
   font-size: 1.5em;
   border: none;
   text-shadow: 2px 2px 0 #def2d3;}
+
+  .Picture{
+    float: right;
+    margin-right: 60px;}
+
+
+  .profile{
+    padding-top: 50px;
+    padding-bottom: 200px;
+  }
